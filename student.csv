@@ -1,3 +1,7 @@
 sno,sname,smarks
 278,prasad,64
+<<<<<<< HEAD
 274,suresh,59
+=======
+279,hareesh,52
+>>>>>>> refs/remotes/origin/master
